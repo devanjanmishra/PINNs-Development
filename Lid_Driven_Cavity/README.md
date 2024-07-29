@@ -3,3 +3,4 @@ A lid-driven cavity is a classic fluid dynamics problem used to study flow patte
 
 Unlike 2D plate which had heat propagation through all 4 surfaces, in LDC we only have fluid movement through one surface only which is usually the upper surface. Therefore, the physics equation for this problem is slightly different as shown in below figure:  
 
+<img width="475" alt="1714722394573" src="https://github.com/user-attachments/assets/580b7f1a-cc40-46ba-b44a-4587f4885b09">
