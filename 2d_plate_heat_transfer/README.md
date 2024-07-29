@@ -1,3 +1,5 @@
 ## Heat Transfer in 2D plate  
 For analysis purpose, let's consider a 2D metallic plate subject to boundary conditions where one edge is maintained at 1°C and the remaining edges at 0°C. While it's possible to measure the temperature at various internal points, doing so necessitates the use of a thermometer for each measurement location. This raises a critical question: how many points should we measure to accurately assess the temperature distribution? The number of thermometers needed directly correlates to the number of points selected for measurement. The challenge then is to devise a method that allows for the generalized measurement of temperature at any given point (x, y) on the plate.  
 A potential approach to this problem involves leveraging techniques such as Finite Element Analysis (FEA) or Finite Difference Methods (FDM). However, it's important to note that these methods are accompanied by significant computational demands and can become exceedingly complex when dealing with irregular geometries. So, what's the alternative in such scenarios?  
+
+![1711094900439](https://github.com/user-attachments/assets/0a4772ee-6d8a-4869-b652-f0be049b70d5)
